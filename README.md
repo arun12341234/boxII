@@ -91,7 +91,7 @@ Description of output result
 | 1    | Failure (Invalid Input Type) |
 | 99   | Exceptional case             |
 
-##Output Format
+## Output Format
 You may choose one of 3 output formats below,
 
 <ul>
@@ -103,37 +103,37 @@ You may choose one of 3 output formats below,
 
 ## Parameter setting examples (diagrams)
 
-##Operations
+## Operations
 
-###Get Access Token:
+### Get Access Token:
 
 ![Box II Input Data](README_Get%20Token%20Access.png)
 
-###File/Folder Lists:
+### File/Folder Lists:
 
 ![Box II Input Data](README_Get%20file%20list.png)
 
-###Upload Files:
+### Upload Files:
 
 ![Box II Input Data](README_Upload%20file.png)
 
-###Download Files/Folder:
+### Download Files/Folder:
 
 ![Box II Input Data](README_Download%20files.png)
 
-###Copy Files/Folder:
+### Copy Files/Folder:
 
 ![Box II Input Data](README_Copy.png)
 
-###Move Files/Folder:
+### Move Files/Folder:
 
 ![Box II Input Data](README_Move.png)
 
-###Delete Files/Folder:
+### Delete Files/Folder:
 
 ![Box II Input Data](README_Delete.png)
 
-###Shared_Link Files/Folder:
+### Shared_Link Files/Folder:
 
 ![Box II Input Data](README_Shared_Link.png)
 
