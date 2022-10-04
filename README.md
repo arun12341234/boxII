@@ -19,10 +19,10 @@ Arun Kumar
 * Release Date: `September 13, 2022`
 
 
-##Primary Features
+## Primary Features
 Get the file/folder lists, upload and download the files from BOX
 
-##Create credentials from Box console
+## Create credentials from Box console
 
 1. Create apps in here: https://account.box.com/login?redirect_url=%2Fdevelopers%2Fconsole
 
